@@ -33,7 +33,7 @@ A Vue 3 based movie search application that allows users to search movies using 
 1. **Clone the repo:**
 
    ```bash
-   git clone https://github.com/yourusername/movie-search-app.git
+   git clone https://github.com/26nikitachhattani/Movie_search.git
    cd movie-search-app
    ```
 
@@ -50,7 +50,7 @@ A Vue 3 based movie search application that allows users to search movies using 
    Create a `.env` file in the root folder and add your TMDB API key:
 
    ```env
-   VITE_TMDB_API_KEY=your_api_key_here
+   VITE_TMDB_API_KEY=62c884a
    ```
 
 4. **Run the development server:**
